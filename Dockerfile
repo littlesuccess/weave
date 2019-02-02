@@ -1,1 +1,1 @@
-FROM docker.io/weaveworks/scope:1.10.1
+FROM docker.io/weaveworks/weave-npc:2.5.1
